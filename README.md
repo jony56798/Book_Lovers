@@ -237,5 +237,3 @@ Feature-rich interface to manage:
 - [Project Documentation](docs/)
 - [Development Setup Guide](docs/setup.md)
 - [Contributing Guidelines](CONTRIBUTING.md)
-
-For detailed information, please visit our [**Wiki page**](https://github.com/monir-devx/debugger-squad/wiki).
